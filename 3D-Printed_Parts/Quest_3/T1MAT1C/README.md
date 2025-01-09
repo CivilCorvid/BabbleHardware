@@ -15,6 +15,7 @@ Licensed under the Creative Commons - Attribution - Share Alike license.
 <div style="text-align: center;">
 	<img src="./images/facial_tracker_and_vive_tracker_mount_for_Q3.png" alt="Without Vive Tracker Mount" style="width: 50%; margin: 20px;">
 </div>
+
 ## With Vive Tracker Mount
 <div style="text-align: center;">
 	<img src="./images/facial_tracker_mount_for_Q3.png" alt="With Vive Tracker Mount" style="width: 50%; margin: 20px;">
