@@ -1,7 +1,9 @@
 # Attribution
 Author: Nanilith
+
 Author's Source: [Thingiverse](https://www.thingiverse.com/thing:6682171)
-licensed under the Creative Commons - Attribution - Share Alike license.
+
+Licensed under the Creative Commons - Attribution - Share Alike license.
 
 
 ## Printed

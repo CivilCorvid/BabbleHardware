@@ -1,7 +1,9 @@
 # Attribution
 Author: T1MAT1C
+
 Author's Source: [Thingiverse](https://www.thingiverse.com/thing:6780933)
-licensed under the Creative Commons - Attribution - Share Alike license.
+
+Licensed under the Creative Commons - Attribution - Share Alike license.
 
 
 ## Printed
