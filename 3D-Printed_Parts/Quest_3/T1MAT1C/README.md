@@ -7,11 +7,15 @@ Licensed under the Creative Commons - Attribution - Share Alike license.
 
 
 ## Printed
-![In Use](./images/20240928_134931.jpg)
-
+<div style="text-align: center;">
+	<img src="./images/20240928_134931.jpg" alt="In use" style="width: 50%; margin: 20px;">
+</div>
 
 ## Without Vive Tracker Mount
-![Without Vive Tracker Mount](./images/facial_tracker_and_vive_tracker_mount_for_Q3.png)
-
+<div style="text-align: center;">
+	<img src="./images/facial_tracker_and_vive_tracker_mount_for_Q3.png" alt="Without Vive Tracker Mount" style="width: 50%; margin: 20px;">
+</div>
 ## With Vive Tracker Mount
-![With Vive Tracker Mount](./images/facial_tracker_mount_for_Q3.png)
+<div style="text-align: center;">
+	<img src="./images/facial_tracker_mount_for_Q3.png" alt="With Vive Tracker Mount" style="width: 50%; margin: 20px;">
+</div>

@@ -9,7 +9,7 @@ Licensed under the Creative Commons (4.0 International License), Attribution-Non
 ## Printed
 
 <div style="text-align: center;">
-  <img src="./images/photo_2024-06-16_11-30-09.webp" alt="In use" style="width: 50%; margin: 20px;">
-  <img src="./images/photo_2024-06-16_11-30-09-2.webp" alt="In use" style="width: 50%; margin: 20px;">
-  <img src="./images/photo_2024-06-16_11-30-09-3.webp" alt="In use" style="width: 50%; margin: 20px;">
+	<img src="./images/photo_2024-06-16_11-30-09.webp" alt="In use" style="width: 50%; margin: 20px;">
+	<img src="./images/photo_2024-06-16_11-30-09-2.webp" alt="In use" style="width: 50%; margin: 20px;">
+	<img src="./images/photo_2024-06-16_11-30-09-3.webp" alt="In use" style="width: 50%; margin: 20px;">
 </div>
